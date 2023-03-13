@@ -9,3 +9,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Euzeroo/Eternal/main/
 ```
 ### Supported Games
 - [Project Slayers](https://www.roblox.com/games/5956785391)
+
+Copyright © 2023 **Euzero Softworks**. All right reversed.
